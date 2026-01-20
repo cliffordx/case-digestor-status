@@ -1,36 +1,40 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+# Change these two values to your GitHub info
+owner: cliffordx 
+repo: case-digestor-status 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: Case Digestor App
+    url: https://casedigestor.app
+    icon: https://casedigestor.app/icon.png
+  - name: Knowledge Base
+    url: https://docs.casedigestor.app
+    icon: https://docs.casedigestor.app/img/logo.svg
+  - name: API Health
+    url: https://casedigestor.app/api/health
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # CNAME for your status page
+  cname: status.casedigestor.app
+  
+  # Branding
+  name: Case Digestor Status
+  introTitle: "**Case Digestor** is alive and well."
+  introMessage: "Real-time performance monitoring for the Case Digestor ecosystem."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: App
+      href: https://casedigestor.app
+    - title: Docs
+      href: https://docs.casedigestor.app
+  # Theme (Moonlight/Night)
+  theme: night
+# Monitoring interval (every 5 minutes)
+# Note: GitHub Actions limits apply
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+user-agent: "Upptime-CaseDigestor"
