@@ -3,13 +3,13 @@ owner: cliffordx
 repo: case-digestor-status 
 sites:
   - name: Case Digestor App
-    url: https://casedigestor.app
-    icon: https://casedigestor.app/icon.png
+    url: https://www.casedigestor.app
+    icon: https://www.casedigestor.app/icon.png
   - name: Knowledge Base
     url: https://docs.casedigestor.app
     icon: https://docs.casedigestor.app/img/logo.svg
   - name: API Health
-    url: https://casedigestor.app/api/health
+    url: https://www.casedigestor.app/api/health
 status-website:
   # CNAME for your status page
   cname: status.casedigestor.app
@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: App
-      href: https://casedigestor.app
+      href: https://www.casedigestor.app
     - title: Docs
       href: https://docs.casedigestor.app
   # Theme (Moonlight/Night)
