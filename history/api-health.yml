@@ -1,7 +1,7 @@
 url: https://www.casedigestor.app/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-12T22:58:45.946Z
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2026-03-12T23:24:33.774Z
 startTime: 2026-01-20T10:02:19.824Z
 generator: Upptime <https://github.com/upptime/upptime>
