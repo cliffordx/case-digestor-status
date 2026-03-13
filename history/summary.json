@@ -4,19 +4,19 @@
     "url": "https://www.casedigestor.app",
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "77.46%",
-    "uptimeWeek": "84.69%",
-    "uptimeMonth": "91.56%",
-    "uptimeYear": "93.72%",
+    "status": "down",
+    "uptime": "93.79%",
+    "uptimeDay": "77.38%",
+    "uptimeWeek": "84.93%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "93.79%",
     "time": 1575,
     "timeDay": 1383,
-    "timeWeek": 1496,
-    "timeMonth": 1602,
+    "timeWeek": 1480,
+    "timeMonth": 1598,
     "timeYear": 1575,
     "dailyMinutesDown": {
-      "2026-03-13": 298,
+      "2026-03-13": 299,
       "2026-03-12": 218,
       "2026-03-11": 127,
       "2026-03-10": 666,
@@ -50,8 +50,7 @@
       "2026-02-09": 173,
       "2026-02-08": 105,
       "2026-02-07": 129,
-      "2026-02-05": 244,
-      "2026-02-04": 36
+      "2026-02-05": 244
     }
   },
   {
@@ -59,19 +58,19 @@
     "url": "https://docs.casedigestor.app",
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
-    "status": "up",
-    "uptime": "92.42%",
-    "uptimeDay": "77.56%",
-    "uptimeWeek": "85.44%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "92.42%",
+    "status": "down",
+    "uptime": "92.48%",
+    "uptimeDay": "77.51%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "92.33%",
+    "uptimeYear": "92.48%",
     "time": 972,
     "timeDay": 819,
-    "timeWeek": 954,
+    "timeWeek": 952,
     "timeMonth": 974,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2026-03-13": 297,
+      "2026-03-13": 298,
       "2026-03-12": 216,
       "2026-03-11": 125,
       "2026-03-10": 598,
@@ -109,7 +108,7 @@
       "2026-02-04": 67,
       "2026-02-03": 38,
       "2026-02-02": 155,
-      "2026-02-01": 144
+      "2026-02-01": 122
     }
   },
   {
@@ -117,15 +116,15 @@
     "url": "https://www.casedigestor.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
-    "status": "up",
-    "uptime": "93.71%",
-    "uptimeDay": "77.66%",
-    "uptimeWeek": "84.93%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "93.71%",
+    "status": "down",
+    "uptime": "93.83%",
+    "uptimeDay": "77.64%",
+    "uptimeWeek": "85.16%",
+    "uptimeMonth": "91.94%",
+    "uptimeYear": "93.83%",
     "time": 220,
     "timeDay": 184,
-    "timeWeek": 214,
+    "timeWeek": 213,
     "timeMonth": 218,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -165,8 +164,7 @@
       "2026-02-07": 110,
       "2026-02-05": 241,
       "2026-02-04": 66,
-      "2026-02-03": 37,
-      "2026-02-02": 76
+      "2026-02-03": 37
     }
   }
 ]
