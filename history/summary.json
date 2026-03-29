@@ -4,19 +4,19 @@
     "url": "https://www.casedigestor.app",
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
-    "status": "up",
-    "uptime": "94.76%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "91.34%",
+    "status": "down",
+    "uptime": "94.81%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "91.33%",
     "uptimeMonth": "90.02%",
-    "uptimeYear": "94.76%",
+    "uptimeYear": "94.81%",
     "time": 1547,
-    "timeDay": 1450,
+    "timeDay": 1532,
     "timeWeek": 1447,
-    "timeMonth": 1485,
+    "timeMonth": 1483,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2026-03-29": 69,
+      "2026-03-29": 70,
       "2026-03-28": 147,
       "2026-03-27": 64,
       "2026-03-26": 43,
@@ -51,7 +51,7 @@
       "2026-02-25": 148,
       "2026-02-23": 143,
       "2026-02-22": 190,
-      "2026-02-21": 142
+      "2026-02-21": 95
     }
   },
   {
@@ -59,19 +59,19 @@
     "url": "https://docs.casedigestor.app",
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
-    "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "92.42%",
+    "status": "down",
+    "uptime": "94.86%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "92.41%",
     "uptimeMonth": "90.88%",
-    "uptimeYear": "94.81%",
+    "uptimeYear": "94.86%",
     "time": 978,
-    "timeDay": 1019,
+    "timeDay": 1030,
     "timeWeek": 1026,
     "timeMonth": 982,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2026-03-29": 69,
+      "2026-03-29": 70,
       "2026-03-28": 117,
       "2026-03-27": 64,
       "2026-03-26": 42,
@@ -109,8 +109,7 @@
       "2026-02-21": 204,
       "2026-02-20": 174,
       "2026-02-19": 19,
-      "2026-02-18": 88,
-      "2026-02-17": 40
+      "2026-02-18": 88
     }
   },
   {
@@ -118,14 +117,14 @@
     "url": "https://www.casedigestor.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
-    "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "88.90%",
+    "status": "down",
+    "uptime": "94.84%",
+    "uptimeDay": "92.85%",
     "uptimeWeek": "91.65%",
     "uptimeMonth": "90.30%",
-    "uptimeYear": "94.80%",
+    "uptimeYear": "94.84%",
     "time": 221,
-    "timeDay": 227,
+    "timeDay": 229,
     "timeWeek": 226,
     "timeMonth": 220,
     "timeYear": 221,
@@ -165,8 +164,7 @@
       "2026-02-25": 145,
       "2026-02-23": 141,
       "2026-02-22": 189,
-      "2026-02-21": 200,
-      "2026-02-20": 31
+      "2026-02-21": 200
     }
   }
 ]
