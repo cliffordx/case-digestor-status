@@ -4,18 +4,19 @@
     "url": "https://www.casedigestor.app",
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
-    "status": "up",
-    "uptime": "95.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.18%",
-    "uptimeMonth": "87.54%",
-    "uptimeYear": "95.03%",
+    "status": "down",
+    "uptime": "95.11%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "89.61%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "95.11%",
     "time": 1532,
     "timeDay": 1250,
-    "timeWeek": 1404,
+    "timeWeek": 1407,
     "timeMonth": 1449,
     "timeYear": 1532,
     "dailyMinutesDown": {
+      "2026-04-09": 1,
       "2026-04-07": 36,
       "2026-04-06": 382,
       "2026-04-05": 251,
@@ -47,8 +48,7 @@
       "2026-03-10": 666,
       "2026-03-09": 63,
       "2026-03-08": 115,
-      "2026-03-07": 32,
-      "2026-03-06": 25
+      "2026-03-07": 32
     }
   },
   {
@@ -56,18 +56,19 @@
     "url": "https://docs.casedigestor.app",
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
-    "status": "up",
-    "uptime": "95.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "88.30%",
-    "uptimeYear": "95.18%",
+    "status": "down",
+    "uptime": "95.24%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "89.70%",
+    "uptimeMonth": "88.41%",
+    "uptimeYear": "95.24%",
     "time": 981,
     "timeDay": 962,
     "timeWeek": 1009,
-    "timeMonth": 996,
+    "timeMonth": 995,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2026-04-09": 1,
       "2026-04-07": 36,
       "2026-04-06": 379,
       "2026-04-05": 249,
@@ -102,8 +103,7 @@
       "2026-03-07": 31,
       "2026-03-06": 24,
       "2026-03-05": 32,
-      "2026-03-04": 119,
-      "2026-03-03": 20
+      "2026-03-04": 119
     }
   },
   {
@@ -111,18 +111,19 @@
     "url": "https://www.casedigestor.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
-    "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.36%",
-    "uptimeMonth": "87.77%",
-    "uptimeYear": "95.10%",
+    "status": "down",
+    "uptime": "95.18%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "95.18%",
     "time": 221,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 223,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2026-04-07": 36,
       "2026-04-06": 379,
       "2026-04-05": 246,
@@ -155,8 +156,7 @@
       "2026-03-09": 61,
       "2026-03-08": 111,
       "2026-03-07": 31,
-      "2026-03-06": 24,
-      "2026-03-05": 31
+      "2026-03-06": 24
     }
   }
 ]
