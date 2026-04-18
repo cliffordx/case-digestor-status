@@ -6,9 +6,9 @@
     "slug": "case-digestor-app",
     "status": "up",
     "uptime": "94.90%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "85.78%",
-    "uptimeMonth": "88.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "88.40%",
     "uptimeYear": "94.90%",
     "time": 1525,
     "timeDay": 1283,
@@ -16,7 +16,6 @@
     "timeMonth": 1429,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2026-04-17": 15,
       "2026-04-16": 55,
       "2026-04-15": 228,
       "2026-04-14": 81,
@@ -52,7 +51,7 @@
       "2026-03-14": 294,
       "2026-03-13": 352,
       "2026-03-12": 218,
-      "2026-03-11": 0
+      "2026-03-11": 22
     }
   },
   {
@@ -61,18 +60,17 @@
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
     "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "85.86%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "94.96%",
+    "uptime": "94.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.00%",
+    "uptimeMonth": "88.77%",
+    "uptimeYear": "94.90%",
     "time": 984,
     "timeDay": 1088,
     "timeWeek": 1013,
     "timeMonth": 1011,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2026-04-17": 14,
       "2026-04-16": 55,
       "2026-04-15": 227,
       "2026-04-14": 80,
@@ -109,7 +107,7 @@
       "2026-03-13": 349,
       "2026-03-12": 216,
       "2026-03-11": 125,
-      "2026-03-10": 78
+      "2026-03-10": 173
     }
   },
   {
@@ -118,18 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
     "status": "up",
-    "uptime": "94.97%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "85.93%",
-    "uptimeMonth": "88.57%",
-    "uptimeYear": "94.97%",
+    "uptime": "94.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.07%",
+    "uptimeMonth": "88.60%",
+    "uptimeYear": "94.96%",
     "time": 222,
     "timeDay": 237,
     "timeWeek": 228,
     "timeMonth": 226,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-04-17": 14,
       "2026-04-16": 54,
       "2026-04-15": 226,
       "2026-04-14": 80,
@@ -165,7 +162,7 @@
       "2026-03-14": 291,
       "2026-03-13": 347,
       "2026-03-12": 215,
-      "2026-03-11": 21
+      "2026-03-11": 50
     }
   }
 ]
