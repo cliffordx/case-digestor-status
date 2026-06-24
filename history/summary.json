@@ -5,11 +5,11 @@
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
     "status": "down",
-    "uptime": "88.12%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "82.78%",
+    "uptime": "88.08%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "81.83%",
     "uptimeMonth": "60.22%",
-    "uptimeYear": "88.12%",
+    "uptimeYear": "88.08%",
     "time": 1482,
     "timeDay": 1355,
     "timeWeek": 1343,
@@ -83,7 +83,7 @@
       "2026-06-21": 383,
       "2026-06-22": 172,
       "2026-06-23": 87,
-      "2026-06-24": 10
+      "2026-06-24": 106
     }
   },
   {
@@ -92,11 +92,11 @@
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
     "status": "down",
-    "uptime": "88.15%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "83.46%",
+    "uptime": "88.11%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "82.50%",
     "uptimeMonth": "60.77%",
-    "uptimeYear": "88.15%",
+    "uptimeYear": "88.11%",
     "time": 981,
     "timeDay": 929,
     "timeWeek": 975,
@@ -170,7 +170,7 @@
       "2026-06-21": 373,
       "2026-06-22": 168,
       "2026-06-23": 82,
-      "2026-06-24": 5
+      "2026-06-24": 101
     }
   },
   {
@@ -179,11 +179,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "88.27%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "84.23%",
+    "uptime": "88.23%",
+    "uptimeDay": "87.95%",
+    "uptimeWeek": "83.28%",
     "uptimeMonth": "61.26%",
-    "uptimeYear": "88.27%",
+    "uptimeYear": "88.23%",
     "time": 311,
     "timeDay": 647,
     "timeWeek": 710,
@@ -256,7 +256,7 @@
       "2026-06-21": 363,
       "2026-06-22": 163,
       "2026-06-23": 77,
-      "2026-06-24": 0
+      "2026-06-24": 96
     }
   }
 ]
