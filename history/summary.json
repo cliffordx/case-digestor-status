@@ -5,14 +5,14 @@
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
     "status": "down",
-    "uptime": "88.14%",
-    "uptimeDay": "82.70%",
-    "uptimeWeek": "84.20%",
-    "uptimeMonth": "62.67%",
-    "uptimeYear": "88.14%",
+    "uptime": "88.10%",
+    "uptimeDay": "82.53%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "62.43%",
+    "uptimeYear": "88.10%",
     "time": 1481,
     "timeDay": 1219,
-    "timeWeek": 1326,
+    "timeWeek": 1327,
     "timeMonth": 1376,
     "timeYear": 1481,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2026-06-22": 172,
       "2026-06-23": 87,
       "2026-06-24": 239,
-      "2026-06-25": 10
+      "2026-06-25": 117
     }
   },
   {
@@ -93,14 +93,14 @@
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
     "status": "down",
-    "uptime": "88.13%",
-    "uptimeDay": "83.37%",
-    "uptimeWeek": "84.83%",
-    "uptimeMonth": "63.23%",
-    "uptimeYear": "88.13%",
+    "uptime": "88.09%",
+    "uptimeDay": "82.86%",
+    "uptimeWeek": "83.93%",
+    "uptimeMonth": "62.99%",
+    "uptimeYear": "88.09%",
     "time": 981,
     "timeDay": 880,
-    "timeWeek": 962,
+    "timeWeek": 963,
     "timeMonth": 971,
     "timeYear": 981,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
       "2026-06-22": 168,
       "2026-06-23": 82,
       "2026-06-24": 234,
-      "2026-06-25": 5
+      "2026-06-25": 112
     }
   },
   {
@@ -181,14 +181,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "88.25%",
-    "uptimeDay": "84.04%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "63.74%",
-    "uptimeYear": "88.25%",
+    "uptime": "88.21%",
+    "uptimeDay": "83.20%",
+    "uptimeWeek": "84.66%",
+    "uptimeMonth": "63.50%",
+    "uptimeYear": "88.21%",
     "time": 313,
     "timeDay": 755,
-    "timeWeek": 711,
+    "timeWeek": 709,
     "timeMonth": 721,
     "timeYear": 313,
     "dailyMinutesDown": {
@@ -259,7 +259,7 @@
       "2026-06-22": 163,
       "2026-06-23": 77,
       "2026-06-24": 230,
-      "2026-06-25": 0
+      "2026-06-25": 107
     }
   }
 ]
