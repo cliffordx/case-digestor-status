@@ -5,16 +5,16 @@
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
     "status": "down",
-    "uptime": "88.28%",
-    "uptimeDay": "72.85%",
+    "uptime": "88.26%",
+    "uptimeDay": "68.74%",
     "uptimeWeek": "86.66%",
     "uptimeMonth": "62.29%",
-    "uptimeYear": "88.28%",
-    "time": 1480,
+    "uptimeYear": "88.26%",
+    "time": 1479,
     "timeDay": 1440,
     "timeWeek": 1361,
-    "timeMonth": 1382,
-    "timeYear": 1480,
+    "timeMonth": 1381,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2026-04-11": 161,
       "2026-04-12": 441,
@@ -83,7 +83,7 @@
       "2026-06-25": 292,
       "2026-06-26": 6,
       "2026-06-27": 178,
-      "2026-06-28": 213
+      "2026-06-28": 272
     }
   },
   {
@@ -91,15 +91,15 @@
     "url": "https://docs.casedigestor.app",
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
-    "status": "down",
-    "uptime": "88.27%",
-    "uptimeDay": "74.20%",
+    "status": "up",
+    "uptime": "88.24%",
+    "uptimeDay": "70.08%",
     "uptimeWeek": "87.14%",
     "uptimeMonth": "62.88%",
-    "uptimeYear": "88.27%",
+    "uptimeYear": "88.24%",
     "time": 981,
-    "timeDay": 1009,
-    "timeWeek": 987,
+    "timeDay": 1000,
+    "timeWeek": 986,
     "timeMonth": 978,
     "timeYear": 981,
     "dailyMinutesDown": {
@@ -171,7 +171,7 @@
       "2026-06-25": 282,
       "2026-06-26": 6,
       "2026-06-27": 164,
-      "2026-06-28": 208
+      "2026-06-28": 267
     }
   },
   {
@@ -179,17 +179,17 @@
     "url": "https://www.casedigestor.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
-    "status": "down",
-    "uptime": "88.39%",
-    "uptimeDay": "75.54%",
+    "status": "up",
+    "uptime": "88.37%",
+    "uptimeDay": "71.42%",
     "uptimeWeek": "87.62%",
     "uptimeMonth": "63.43%",
-    "uptimeYear": "88.39%",
-    "time": 318,
-    "timeDay": 718,
-    "timeWeek": 724,
+    "uptimeYear": "88.37%",
+    "time": 319,
+    "timeDay": 720,
+    "timeWeek": 725,
     "timeMonth": 723,
-    "timeYear": 318,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2026-04-07": 36,
       "2026-04-09": 23,
@@ -259,7 +259,7 @@
       "2026-06-25": 272,
       "2026-06-26": 6,
       "2026-06-27": 149,
-      "2026-06-28": 203
+      "2026-06-28": 262
     }
   }
 ]
