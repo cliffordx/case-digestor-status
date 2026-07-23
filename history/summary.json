@@ -5,11 +5,11 @@
     "icon": "https://www.casedigestor.app/icon.png",
     "slug": "case-digestor-app",
     "status": "down",
-    "uptime": "89.78%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "92.16%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "89.78%",
+    "uptime": "89.75%",
+    "uptimeDay": "79.94%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "89.75%",
     "time": 1474,
     "timeDay": 2475,
     "timeWeek": 1556,
@@ -89,7 +89,7 @@
       "2026-07-20": 138,
       "2026-07-21": 88,
       "2026-07-22": 199,
-      "2026-07-23": 10
+      "2026-07-23": 90
     }
   },
   {
@@ -98,11 +98,11 @@
     "icon": "https://docs.casedigestor.app/img/logo.svg",
     "slug": "knowledge-base",
     "status": "down",
-    "uptime": "89.89%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "89.89%",
+    "uptime": "89.87%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "89.87%",
     "time": 984,
     "timeDay": 1805,
     "timeWeek": 1126,
@@ -182,7 +182,7 @@
       "2026-07-20": 133,
       "2026-07-21": 83,
       "2026-07-22": 189,
-      "2026-07-23": 5
+      "2026-07-23": 85
     }
   },
   {
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.casedigestor.app.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "89.97%",
-    "uptimeDay": "87.51%",
-    "uptimeWeek": "93.02%",
-    "uptimeMonth": "93.10%",
-    "uptimeYear": "89.97%",
+    "uptime": "89.94%",
+    "uptimeDay": "81.94%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "89.94%",
     "time": 353,
     "timeDay": 728,
     "timeWeek": 732,
@@ -274,7 +274,7 @@
       "2026-07-20": 129,
       "2026-07-21": 78,
       "2026-07-22": 179,
-      "2026-07-23": 0
+      "2026-07-23": 80
     }
   }
 ]
